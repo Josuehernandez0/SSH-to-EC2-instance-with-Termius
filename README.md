@@ -1,7 +1,7 @@
 # SSH-to-EC2-instance-with-Termius
 # AWS SSH
 <p align="center">
-<img src="https://imgur.com/a/Y6ZS5Q5.png"/>
+<img src="https://i.imgur.com/sspxmci.png"/>
 </p>
 
 <h1>SSH into a EC2 instance in AWS with Termius</h1>
